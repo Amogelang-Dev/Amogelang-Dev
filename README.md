@@ -34,7 +34,7 @@ Relational Database Design
 ## 📫 How to Reach Me
 I’m always open to collaborating on mobile app projects or discussing database architecture.
 
-**LinkedIn:** 
+**LinkedIn:** https://www.linkedin.com/in/matlhaga-a-dev
 
 **Portfolio:** 
 
