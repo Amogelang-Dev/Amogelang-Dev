@@ -17,11 +17,11 @@ I enjoy working with a minimalist, high-contrast aesthetic—specializing in dee
 
 ## Development
 
-**Languages:** Kotlin, C#, HTML, CSS & SQL 
+**Languages:** Kotlin, C#, PHP, HTML, CSS & SQL 
 
 **Mobile:** Android Studio
 
-**Backend:** .NET Framework, Firebase
+**Backend:** .NET Framework, SQLite, SQL
 
 **Tools:** Git, GitHub, VS Code
 
