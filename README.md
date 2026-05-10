@@ -10,6 +10,12 @@ FamSync: A family-centric communication platform designed to sync schedules, tas
 
 PennyWise: A streamlined personal budget tracker for managing finances with a focus on simplicity and UX.
 
+Van Der Nakeng: A farm management system in the form of an android app development designed the better the lives of farms and reduce paperwork while promoting efficiency.
+
+Chabis Hotness: An e-commerce web platform for a retail company.
+
+Pastimes: An e-commerce web platform for a retail company.
+
 SyreTech Solutions: My professional identity for delivering modern web and software solutions.
 
 ## 🛠️ Tech Stack & Tools
