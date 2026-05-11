@@ -29,7 +29,7 @@ I enjoy working with a minimalist, high-contrast aesthetic—specializing in dee
 
 **Backend:** .NET Framework, SQLite, SQL
 
-**Tools:** Git, GitHub, VS Code
+**Tools:** Git, GitHub, VS Code, VS Code 22, Android Studio, SSMS, WAMP Server & Oracle
 
 ## Database Administration
 
